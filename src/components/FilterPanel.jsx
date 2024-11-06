@@ -1,4 +1,4 @@
-// src/components/FilterPanel.js
+
 import React, { useState } from 'react';
 
 const FilterPanel = ({
